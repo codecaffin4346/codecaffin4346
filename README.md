@@ -2,101 +2,74 @@
 <html>
 
 <head>
-  <meta charset="utf-8" />
+  <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Welcome to My GitHub Page!</title>
+  <title>Welcome file</title>
   <link rel="stylesheet" href="https://stackedit.io/style.css" />
-  <style>
-    body {
-      font-family: 'Segoe UI', sans-serif;
-      background: #f9f9f9;
-      margin: 2rem;
-      color: #333;
-    }
-
-    h1, h2 {
-      color: #0d6efd;
-    }
-
-    .intro {
-      background: linear-gradient(135deg, #e0f7fa, #fce4ec);
-      border-left: 6px solid #0d6efd;
-      padding: 1rem;
-      border-radius: 8px;
-      margin-bottom: 2rem;
-    }
-
-    a {
-      color: #0d6efd;
-      text-decoration: none;
-    }
-
-    a:hover {
-      text-decoration: underline;
-    }
-
-    .cta {
-      font-weight: bold;
-      background: #fff3cd;
-      padding: 0.75rem;
-      border-left: 5px solid #ffc107;
-      border-radius: 6px;
-      margin: 1rem 0;
-    }
-  </style>
 </head>
 
 <body class="stackedit">
   <div class="stackedit__html">
 
-    <h1>🚀 Welcome to My GitHub Page!</h1>
 
-    <div class="intro">
-      <p>Hello! I’m <strong>Nishi Agrawal</strong> — a passionate tech enthusiast, creative designer, and lifelong learner. 👩‍💻</p>
-      <p>This page is a glimpse into my journey of building impactful software, diving into AI/ML, and designing meaningful experiences for the digital world. ✨</p>
-    </div>
+  
+  
+  <title>Welcome to My GitHub Page!</title>
+  
+    
 
-    <h2>✨ About Me</h2>
-    <ul>
-      <li>💻 Web & App Developer (React, Flask, Node.js)</li>
-      <li>🧠 AI/ML Explorer – currently building <em>Project Neuron</em> for brain tumor detection</li>
-      <li>🎨 Graphic Designer – crafting stunning visuals and intuitive UI/UX</li>
-      <li>🌍 Problem Solver – working on real-world solutions for social impact (e.g., Med_Sure, EcoVista)</li>
-    </ul>
 
-    <div class="cta">
-      📌 Want to collaborate, connect, or explore my projects?<br>
-      👉 <a href="https://github.com/yourusername" target="_blank">Check out my GitHub Profile!</a>
-    </div>
+  <div class="stackedit__html">
+<pre><code>&lt;h1&gt;🚀 Welcome to My GitHub Page!&lt;/h1&gt;
 
-    <h2>📘 Featured Projects</h2>
-    <ul>
-      <li><strong>Neuron</strong>: ML-powered brain tumor detection system</li>
-      <li><strong>EcoVista</strong>: Sustainable waste management platform</li>
-      <li><strong>WellHer</strong>: A women-centric digital health solution</li>
-      <li><strong>Virgo</strong>: Career development app powered by AI</li>
-    </ul>
+&lt;div class="intro"&gt;
+  &lt;p&gt;Hello! I’m &lt;strong&gt;Nishi Agrawal&lt;/strong&gt; — a passionate tech enthusiast, creative designer, and lifelong learner. 👩‍💻&lt;/p&gt;
+  &lt;p&gt;This page is a glimpse into my journey of building impactful software, diving into AI/ML, and designing meaningful experiences for the digital world. ✨&lt;/p&gt;
+&lt;/div&gt;
 
-    <h2>🛠️ Tools & Technologies</h2>
-    <p><code>React</code>, <code>Node.js</code>, <code>Flask</code>, <code>Python</code>, <code>MongoDB</code>, <code>Tailwind CSS</code>, <code>Git/GitHub</code>, <code>Gemini</code>, <code>Figma</code>, <code>Canva</code></p>
+&lt;h2&gt;✨ About Me&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;💻 Web &amp; App Developer (React, Flask, Node.js)&lt;/li&gt;
+  &lt;li&gt;🧠 AI/ML Explorer – currently building &lt;em&gt;Project Neuron&lt;/em&gt; for brain tumor detection&lt;/li&gt;
+  &lt;li&gt;🎨 Graphic Designer – crafting stunning visuals and intuitive UI/UX&lt;/li&gt;
+  &lt;li&gt;🌍 Problem Solver – working on real-world solutions for social impact (e.g., Med_Sure, EcoVista)&lt;/li&gt;
+&lt;/ul&gt;
 
-    <h2>📈 Stats & Progress</h2>
-    <p>👩‍💻 Participating in <strong>50 Days of Code</strong><br>
-       🏆 Finalist in hackathons, shortlisted for Smart India Hackathon<br>
-       🚀 Active contributor in GSSOC, ISRO internship applicant</p>
+&lt;div class="cta"&gt;
+  📌 Want to collaborate, connect, or explore my projects?&lt;br&gt;
+  👉 &lt;a href="https://github.com/yourusername" target="_blank"&gt;Check out my GitHub Profile!&lt;/a&gt;
+&lt;/div&gt;
 
-    <h2>📬 Get In Touch</h2>
-    <p>Email: <a href="mailto:youremail@example.com">youremail@example.com</a><br>
-    LinkedIn: <a href="https://linkedin.com/in/yourprofile" target="_blank">yourprofile</a></p>
+&lt;h2&gt;📘 Featured Projects&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Neuron&lt;/strong&gt;: ML-powered brain tumor detection system&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;EcoVista&lt;/strong&gt;: Sustainable waste management platform&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;WellHer&lt;/strong&gt;: A women-centric digital health solution&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Virgo&lt;/strong&gt;: Career development app powered by AI&lt;/li&gt;
+&lt;/ul&gt;
 
-    <div class="cta">
-      🔎 Explore more on my <a href="https://github.com/yourusername" target="_blank">GitHub</a> — and don’t forget to ⭐ my repos if you like them!
-    </div>
+&lt;h2&gt;🛠️ Tools &amp; Technologies&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;React&lt;/code&gt;, &lt;code&gt;Node.js&lt;/code&gt;, &lt;code&gt;Flask&lt;/code&gt;, &lt;code&gt;Python&lt;/code&gt;, &lt;code&gt;MongoDB&lt;/code&gt;, &lt;code&gt;Tailwind CSS&lt;/code&gt;, &lt;code&gt;Git/GitHub&lt;/code&gt;, &lt;code&gt;Gemini&lt;/code&gt;, &lt;code&gt;Figma&lt;/code&gt;, &lt;code&gt;Canva&lt;/code&gt;&lt;/p&gt;
 
-    <p style="text-align:center;">Made with ❤️ by Nishi</p>
+&lt;h2&gt;📈 Stats &amp; Progress&lt;/h2&gt;
+&lt;p&gt;👩‍💻 Participating in &lt;strong&gt;50 Days of Code&lt;/strong&gt;&lt;br&gt;
+   🏆 Finalist in hackathons, shortlisted for Smart India Hackathon&lt;br&gt;
+   🚀 Active contributor in GSSOC, ISRO internship applicant&lt;/p&gt;
 
-  </div>
+&lt;h2&gt;📬 Get In Touch&lt;/h2&gt;
+&lt;p&gt;Email: &lt;a href="mailto:youremail@example.com"&gt;youremail@example.com&lt;/a&gt;&lt;br&gt;
+LinkedIn: &lt;a href="https://linkedin.com/in/yourprofile" target="_blank"&gt;yourprofile&lt;/a&gt;&lt;/p&gt;
+
+&lt;div class="cta"&gt;
+  🔎 Explore more on my &lt;a href="https://github.com/yourusername" target="_blank"&gt;GitHub&lt;/a&gt; — and don’t forget to ⭐ my repos if you like them!
+&lt;/div&gt;
+
+&lt;p style="text-align:center;"&gt;Made with ❤️ by Nishi&lt;/p&gt;
+</code></pre>
+</div>  
+
+
+</div>
 </body>
 
 </html>
-
