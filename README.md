@@ -42,8 +42,8 @@ React Node.js Flask Python MongoDB Tailwind CSS Git/GitHub Gemini Figma Canva
 
 ## 📬 Get In Touch
 
-* *Email*: [youremail@example.com](mailto:workwithnishi51@gmail.com)
-* *LinkedIn*: [yourprofile](www.linkedin.com/in/nishi-agrawal-151618283)
+* *Email*: [mail me](mailto:workwithnishi51@gmail.com)
+* *LinkedIn*: [Myprofile](www.linkedin.com/in/nishi-agrawal-151618283)
 
 > 🔎 Explore more on my [GitHub](https://github.com/codecaffin4346) — and don’t forget to ⭐ my repos if you like them!
 
